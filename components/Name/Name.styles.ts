@@ -25,4 +25,35 @@ export default StyleSheet.create({
   backgroundGirl: {
     backgroundColor: Colors.primary,
   },
+  name: {
+    fontSize: 30,
+    color: Colors.textWhite,
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  gender: {
+    flex: 1
+  },
+  originContainer:{
+    padding: 10,
+    borderRadius: 15,
+    width: '100%',
+  },
+  originContainerBoy:{
+    backgroundColor: Colors.accentBack,
+  },
+  originContainerGirl:{
+    backgroundColor: Colors.primaryBack,
+  },
+  originTitle:{
+    fontSize: 18,
+    color: Colors.textWhite,
+    fontWeight: 'bold',
+    marginBottom: 15,
+  },
+  origin: {
+    fontSize: 18,
+    color: Colors.textSecondary,
+    fontStyle: 'italic',
+  }
 });
