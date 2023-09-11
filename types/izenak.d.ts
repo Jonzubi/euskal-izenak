@@ -1,4 +1,4 @@
-export interface Names {
+export interface Name {
   gender: string;
   name: string;
   origin: string;
