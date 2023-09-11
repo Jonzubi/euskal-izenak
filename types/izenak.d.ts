@@ -1,5 +1,5 @@
 export interface Name {
-  gender: string;
+  gender: 'Mutila' | 'Neska';
   name: string;
   origin: string;
 }

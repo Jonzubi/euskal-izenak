@@ -3,4 +3,5 @@ export default {
   primary: '#FF4081',
   accent: '#536DFE',
   text: '#333333',
+  border: '#E0E0E0',
 }
