@@ -8,4 +8,5 @@ export default {
   textWhite: '#F8F8F8',
   textSecondary: '#757575',
   border: '#E0E0E0',
-}
+  yellow: '#FFEB3B',
+};
